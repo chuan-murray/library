@@ -14,7 +14,7 @@ module.exports = {
             },
             "files": [
                 ".eslintrc.{js,cjs}",
-                "webpack.config.js"
+                "webpack.config..*"
             ],
             "parserOptions": {
                 "sourceType": "script"
